@@ -1,0 +1,33 @@
+{
+  "project_info": {
+    "project_number": "292288318246",
+    "project_id": "bahaykuboapp1",
+    "storage_bucket": "bahaykuboapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292288318246:android:2f17b6330354d663558fe7",
+        "android_client_info": {
+          "package_name": "com.ibiaspabellon.bka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLvZyg_lhtm8e7kHRqVAwn9gJkluQrl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "rules": {
+    ".read": "auth != null",
+    ".write": "auth != null"
+  }
+}
